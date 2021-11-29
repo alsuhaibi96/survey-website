@@ -1,5 +1,4 @@
 # survey-website
 A template that has a form which is desined as a survey .
 
-
-![Uploading Screenshot (684).png…]()
+![Screenshot (684)](https://user-images.githubusercontent.com/61363696/143791881-29a7da3a-ec05-4425-917d-5f00fbcc4708.png)
